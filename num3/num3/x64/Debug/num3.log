@@ -1,0 +1,5 @@
+﻿  num3.cpp
+D:\прога\num3\num3\num3.cpp(35,9): warning C4068: неизвестная прагма "clang"
+D:\прога\num3\num3\num3.cpp(36,9): warning C4068: неизвестная прагма "ide"
+D:\прога\num3\num3\num3.cpp(65,9): warning C4068: неизвестная прагма "clang"
+  num3.vcxproj -> D:\прога\num3\x64\Debug\num3.exe
